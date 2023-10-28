@@ -1,0 +1,34 @@
+{
+    "name": "Controles",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "2c0b0cee-c89e-4791-b141-b77618cd211d",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "57582b88-1cc1-44eb-acb4-577c77b25d8c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c72aa952-145a-4ffb-87f9-990758054a27",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
